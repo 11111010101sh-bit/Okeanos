@@ -46,7 +46,4 @@ Future Scope:
 
 
 
-## Author
-**Shreya Haruray**
 
-This project was developed as part of **Smart India Hackathon (SIH)** to explore the use of gamification for environmental education and awareness.
